@@ -93,6 +93,6 @@ print(ouro.loc["Total", "Total"], prata["Valor (R$)"].sum())
 
 ## Autor
 
-**Eduardo Henrique do Rêgo** · [GitHub](https://github.com/seu-usuario) · [LinkedIn](https://linkedin.com/in/seu-usuario)
+**Eduardo Henrique do Rêgo** · [GitHub](https://github.com/EduHenriqueRmc) · [LinkedIn](https://www.linkedin.com/in/eduardo-henrique-do-r%C3%AAgo-255984350/)
 
 Desafio proposto por Guilherme Muniz · Trilha de Dados do CITi.
